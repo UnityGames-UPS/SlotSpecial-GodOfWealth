@@ -13946,7 +13946,7 @@ MonoBehaviour:
   uiManager: {fileID: 377874625}
   bonusdata: []
   JSManager: {fileID: 1029290966}
-  testToken: 210d0b69236644a2a9ec417f2aef3003
+  testToken: 6558a977def7464ca3ba14d73c44d25b
   RaycastBlocker: {fileID: 163551759}
 --- !u!114 &500036493
 MonoBehaviour:
@@ -34930,9 +34930,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UIWrapper: {fileID: 1003677444}
   CanvasScaler: {fileID: 408922278}
-  MatchWidth: 0
-  MatchHeight: 1
-  PortraitMatchWandH: 0.35
+  BGUIWrapper: {fileID: 1003677444}
+  BGCanvasScaler: {fileID: 408922278}
   transitionDuration: 0.2
   waitForRotation: 0.2
 --- !u!4 &1261578384
